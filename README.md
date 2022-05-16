@@ -1,4 +1,5 @@
-# Myntra-Clone (Assignment by GoComet)
+Assignment by GoComet
+# Myntra-App
 
 ## Libraries Used: React, Redux, and AntD.
 
